@@ -1,0 +1,1 @@
+print(re.search(r"cat|dog", "I like cats"))
